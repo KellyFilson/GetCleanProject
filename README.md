@@ -12,12 +12,12 @@ Part 1 - Project.C3w3_1.R
 ### Step 1 - Load Source Files
 * activity_labels.txt
 * features.txt
-* /test/subject_test.txt
-* /test/x_test.txt
-* /test/y_test.txt
-* /train/subject_train.txt
-* /train/x_train.txt
-* /train/y_train.txt
+* subject_test.txt
+* x_test.txt
+* y_test.txt
+* subject_train.txt
+* x_train.txt
+* y_train.txt
 
 ### Step 2 - Merge Source Files
 * subject.all = subject_test + subject_train
@@ -31,7 +31,7 @@ Part 1 - Project.C3w3_1.R
 
 ### Step 4 - Filter DF - Keep Subject, Activity, and Measurement columns containing mean() or std()
 
-### Write DF, with headers, to tidy_data_mean_std.txt in the current working directory
+### Step 5 - Write DF, with headers, to tidy_data_mean_std.txt in the current working directory
 
 Part 2 - Project.C3w3_2.R
 -------------------------
