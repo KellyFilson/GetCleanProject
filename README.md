@@ -3,11 +3,11 @@ Getting and Cleaning Data - Course Project
 
 Scripts
 -------
-* Part 1 - Project_c3w3_1.R
-* Part 2 - Project_c3w3_2.R
+* Part 1 - run_analysis.R (part 1)
+* Part 2 - run_analysis.R (part 2)
 
-Part 1 - Project.C3w3_1.R
--------------------------
+Part 1
+------
 
 ### Step 1 - Load Source Files
 * activity_labels.txt
@@ -33,8 +33,8 @@ Part 1 - Project.C3w3_1.R
 
 ### Step 5 - Write DF, with headers, to tidy_data_mean_std.txt in the current working directory
 
-Part 2 - Project.C3w3_2.R
--------------------------
+Part 2
+------
 
 ### Step 1 - Load Source Files
 * tidy_data_mean_std.txt was created during Part 1 (file contains headers)
